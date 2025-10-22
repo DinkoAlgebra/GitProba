@@ -5,6 +5,7 @@ public class Main {
         for (int i = 1; i <= 5; i++) {
             suma += i;
 //jedan jedan
+            //dva
         }
         System.out.println("Suma brojeva je: " + suma);
     }
